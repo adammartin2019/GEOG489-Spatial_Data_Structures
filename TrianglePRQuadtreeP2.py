@@ -289,7 +289,6 @@ if __name__ == "__main__":
     print("Minima:",minarr)
     print("Maxima:",maxarr)
     
-    
     print("END MIN-MAX QUERY")
 
 
